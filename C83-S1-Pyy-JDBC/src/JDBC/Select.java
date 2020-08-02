@@ -7,6 +7,7 @@ public class Select {
 	  /*
 	   * ×¢Èë¹¥»÷
 	   */
+	  
 	  System.out.println("===================");
 	  select("' or '1'='1");
 	  System.out.println("==================="); 
